@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @rodabt
-- 🌱 I’m currently going back to basics
-- 💞️ I’m looking to collaborate on Open Source projects
-- 📫 How to reach me: profile!
+👋 Hi, I’m @rodabt
 
 <!---
 rodabt/rodabt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
